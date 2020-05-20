@@ -4,9 +4,9 @@ This project was submitted for the first project of Udacity Data Analyst Nanodeg
 
 ### Project requirements:
 
-  * Extract data from a database using a SQL query
-  * Calculate a moving average in a spreadsheet
-  * Create a line chart in a spreadsheet
+  * Extract data from a database using a SQL query.
+  * Calculate a moving average in a spreadsheet.
+  * Create a line chart in a spreadsheet.
 
 ### Project Instructions:
   * To create a visualization and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in the closest big city to where you live.
